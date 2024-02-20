@@ -5,7 +5,9 @@
         <item>@string/resolution_480p</item>
         <item>@string/resolution_720p</item>
         <item>@string/resolution_1080p</item>
+        <item>@string/resolution_1360p</item>
         <item>@string/resolution_1440p</item>
+        <item>@string/resolution_2040p</item>
         <item>@string/resolution_4k</item>
     </string-array>
 
@@ -15,7 +17,9 @@
         <item>854x480</item>
         <item>1280x720</item>
         <item>1920x1080</item>
+        <item>2176x1360</item>
         <item>2560x1440</item>
+        <item>3264x2040</item>
         <item>3840x2160</item>
     </string-array>
 
@@ -23,12 +27,14 @@
         <item>@string/fps_30</item>
         <item>@string/fps_60</item>
         <item>@string/fps_90</item>
+        <item>@string/fps_96</item>
         <item>@string/fps_120</item>
     </string-array>
     <string-array name="fps_values" translatable="false">
         <item>30</item>
         <item>60</item>
         <item>90</item>
+        <item>96</item>
         <item>120</item>
     </string-array>
 

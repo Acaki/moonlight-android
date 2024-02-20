@@ -269,12 +269,15 @@
     <string name="resolution_480p">480p</string>
     <string name="resolution_720p">720p</string>
     <string name="resolution_1080p">1080p</string>
+    <string name="resolution_1360p">1360p</string>
     <string name="resolution_1440p">1440p</string>
+    <string name="resolution_2040p">2040p</string>
     <string name="resolution_4k">4K</string>
 
     <string name="fps_30">30 FPS</string>
     <string name="fps_60">60 FPS</string>
     <string name="fps_90">90 FPS</string>
+    <string name="fps_96">96 FPS</string>
     <string name="fps_120">120 FPS</string>
 
     <string name="audioconf_stereo">Stereo</string>
